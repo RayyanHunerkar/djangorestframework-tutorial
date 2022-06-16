@@ -6,7 +6,7 @@ My understanding of DjangoRestFrameworks' quickstart guide
 
 1. Create a virtual environment to isolate the packages, libraries, scripts and the python interpreter from other environments.
     - `python3 -m venv <environment name>`
-    - Activate the environment by using the line  `source <environment name>/bin/activate ` on Mac OS
+    - Activate the environment by using the line  `source <environment name>/bin/activate ` on Mac OS and `<environment name>\Scripts\activate` on Windows.
     - install all the required libraries
         - `pip install django`
         - `pip install djangorestframework`
