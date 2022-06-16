@@ -24,5 +24,7 @@ My understanding of DjangoRestFrameworks' quickstart guide
 - how to route requests to the correct viewset
 - read more about serializers and why HyperlinkedModelSerializer was used
 - read more into routers.
-- other resources call for creating a model and then serializing it, but this tutorial didn't. So read up on model creation and serialization. 
+- other resources call for creating a model and then serializing it, but this tutorial didn't. So read up on model creation and serialization.  
+    - update: 
+        found out why models were not created in the first place. The models were already inbuilt in django.
  
