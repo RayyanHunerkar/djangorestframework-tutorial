@@ -1,4 +1,4 @@
-# djangorestframework-tutorial
+# djangorestframework-tutorial Quickstart
 
 My understanding of DjangoRestFrameworks' quickstart guide
 
